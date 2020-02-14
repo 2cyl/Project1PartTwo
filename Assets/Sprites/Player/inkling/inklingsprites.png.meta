@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: c3760c5991bf10848ab11831eaf12f72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7092242642416635306
+    second: front_idle
+  - first:
+      213: 4652637579028275412
+    second: front_walk1
+  - first:
+      213: -508360658634336688
+    second: front_walk2
+  - first:
+      213: -8908268797715090293
+    second: front_attack1
+  - first:
+      213: 687502343386436796
+    second: front_attack2
+  - first:
+      213: -4582538769827459560
+    second: back_idle
+  - first:
+      213: -3804336604323228011
+    second: back_walk1
+  - first:
+      213: -7896678119351680281
+    second: back_walk2
+  - first:
+      213: -31335691143205659
+    second: back_attack1
+  - first:
+      213: 6953790273464787685
+    second: back_attack2
+  - first:
+      213: 8825708880808182413
+    second: right_idle
+  - first:
+      213: -6126659792896334396
+    second: right_walk1
+  - first:
+      213: 4148651748946178180
+    second: right_walk2
+  - first:
+      213: 1019176760188477799
+    second: right_attack1
+  - first:
+      213: -6065650168795639688
+    second: right_attack2
+  - first:
+      213: 2597200032890666263
+    second: left_idle
+  - first:
+      213: 6919798707104108406
+    second: left_walk1
+  - first:
+      213: 2254153167715754706
+    second: left_walk2
+  - first:
+      213: -6295640251162785916
+    second: left_attack1
+  - first:
+      213: 6802344025387531815
+    second: left_attack2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: front_idle
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9644caa77f36de4ea0222198962cd23
+      internalID: -7092242642416635306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_walk1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85ebc754ab56543869eb029412a072
+      internalID: 4652637579028275412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_walk2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187557f7f9830b546a0f90dd45b72c47
+      internalID: -508360658634336688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_attack1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf27ef8b200bc4596d58d3c10b85c4
+      internalID: -8908268797715090293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front_attack2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c235df20d417468721510dfb64271
+      internalID: 687502343386436796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_idle
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a3b09355e28549849f4f6e551031f
+      internalID: -4582538769827459560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_walk1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 102
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c2b4f96e7331459546b2f89d09423
+      internalID: -3804336604323228011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_walk2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 102
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e48c16843fb4b449bdeed175ef6f3b
+      internalID: -7896678119351680281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_attack1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5e78e3fc2f294c89085db93fe085a
+      internalID: -31335691143205659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_attack2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466933b8622ca2645aa34198624ff90b
+      internalID: 6953790273464787685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_idle
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 57
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19653cd0ce91864e98a7d41f8f6c385
+      internalID: 8825708880808182413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_walk1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a0ce178c0f81c4987bcf63d67cc79d
+      internalID: -6126659792896334396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_walk2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6c2cce3efc7d49ab5d54830862dc1
+      internalID: 4148651748946178180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_attack1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 57
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8eedbadb1f58418329a0fcda94716
+      internalID: 1019176760188477799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_attack2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959bf318d244e1944bf9ad3c57f2add6
+      internalID: -6065650168795639688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_idle
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978a8f97b7ccb74fb97bc59bb476109
+      internalID: 2597200032890666263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_walk1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb175108a56e14b959af8f6222042d
+      internalID: 6919798707104108406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_walk2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 11
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1288917fdaec4fb200860d6d34374
+      internalID: 2254153167715754706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_attack1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 11
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9203cf83766347b7f9976e80ed586
+      internalID: -6295640251162785916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_attack2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2376af78803034db542c6ec36244a1
+      internalID: 6802344025387531815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ab5c0df97f8bd4343bc3e05f273b49d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
